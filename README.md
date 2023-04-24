@@ -128,6 +128,16 @@ Blablabla.
 
 ![Tux, o mascote do Linux](./assets/images/tux.avif)
 
+## Checkboxes
+
+- [x] Estudar HTML
+- [x] Estudar CSS
+- [x] Estudar JavaScript
+- [ ] Estudar Cypress
+  - [x] Testes de GUI
+  - [x] Testes de API
+  - [ ] Testes de Componentes
+
 ___
 
 Feito com 💛 por [Walmyr Filho](https://walmyr.dev).
