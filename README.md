@@ -6,6 +6,28 @@ Parágrafo exemplo...
 
 ### h3
 
+Exemplo de bloco de código sem definição da linguagem com múltiplas linhas abaixo.
+
+```
+{
+  "name": "walmyr",
+  "nationality": "brazilian",
+  "maried": true
+}
+
+```
+
+Exemplo de **json** com múltiplas linhas abaixo.
+
+```json
+{
+  "name": "walmyr",
+  "nationality": "brazilian",
+  "maried": true
+}
+
+```
+
 Exemplo do código **JavaScript** com múltiplas linhas abaixo.
 
 ```js
@@ -55,7 +77,7 @@ Exemplo de código _inline_ a seguir: `npm install example -S`.
 - Baz
 
 
-### Listagem não-numerada com identação
+### Listagem não-numerada com recuo
 
 - Foo
 - Bar
@@ -70,7 +92,7 @@ Exemplo de código _inline_ a seguir: `npm install example -S`.
 3. Item 3
 
 
-### Listagem numerada com identação
+### Listagem numerada com recuo
 
 1. Item 1
 2. Item 2
@@ -103,11 +125,11 @@ Blablabla.
 
 > Como as pessoas tratam você é o karma delas; como você reage é o seu. Wayne Dyers
 
-### Múltiplas linhas
+### Múltiplas linhas abaixo
 
-> Como as pessoas tratam você é o karma delas; como você reage é o seu.
+> Não contavam com minha astúcia!
 >
-> Wayne Dyers
+> Chapolin Colorado
 
 ### Blocos de citação aninhados
 
@@ -138,6 +160,27 @@ Blablabla.
   - [x] Testes de API
   - [ ] Testes de Componentes
 
+## Tabelas
+
+| ID     | isAvailable | stockQty |
+| -------| ----------- | -------- |
+| 00001  | true        | 257      |
+| 00002  | false       | 0        |
+
+## _Strikethrough_
+
+Use Cypress ~~com _Cucumber_ e _Page Objects_~~ utilizando sua estrutura padrão.
+
+## Links
+
+### Automático
+
+https://example.com
+
+### Desabilitado
+
+`https://example.com`
+
 ___
 
-Feito com 💛 por [Walmyr Filho](https://walmyr.dev).
+Feito com 💛 por [Walmyr](https://walmyr.dev).
