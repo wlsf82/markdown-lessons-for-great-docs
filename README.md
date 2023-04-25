@@ -203,4 +203,4 @@ https://example.com
 
 ___
 
-Feito com 💚 por [Walmyr](https:walmyr.dev).
+Feito com 💚 por [Walmyr](https://walmyr.dev).
