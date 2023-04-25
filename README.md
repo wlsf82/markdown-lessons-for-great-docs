@@ -28,6 +28,22 @@ Exemplo de **json** com múltiplas linhas abaixo.
 
 ```
 
+Exemplo do código **HTML** com múltiplas linhas abaixo.
+
+```html
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+  <title>Aplicação Exemplo</title>
+</head>
+<body>
+  <h1>Título exemplo</h1>
+  <p>Parágrafo exemplo</p>
+</body>
+</html>
+
+```
+
 Exemplo do código **JavaScript** com múltiplas linhas abaixo.
 
 ```js
