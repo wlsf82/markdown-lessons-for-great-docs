@@ -147,7 +147,7 @@ Exemplo de <kbd>botão</kbd>.
 
 ### Múltiplas linhas
 
-> Não contavem com minha astúcia!
+> Não contavam com minha astúcia!
 >
 > Chapolin Colorado
 
