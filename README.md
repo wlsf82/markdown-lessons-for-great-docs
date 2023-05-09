@@ -143,7 +143,7 @@ Exemplo de <kbd>botão</kbd>.
 
 ### Uma linha
 
-> Como as pessoas tratam você é o karma delas; como você reage é o seu. Wayne Dyers
+> Como as pessoas tratam você é o karma delas; como você reage é o seu. Wayne Dyer
 
 ### Múltiplas linhas
 
